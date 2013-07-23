@@ -80,6 +80,13 @@ Vault currently supports the following: Permissions 3, PEX, GroupManager, bPerms
 			<systemPath>${project.basedir}/lib/DroxPerms-0.4.0-SNAPSHOT.jar</systemPath>
 		</dependency>
 		<dependency>
+			<groupId>el.me.Main</groupId>
+			<artifactId>EconomyLite</artifactId>
+			<version>1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/lib/EconomyLite.jar</systemPath>
+		</dependency>
+		<dependency>
 			<groupId>net.krinsoft</groupId>
 			<artifactId>Privileges</artifactId>
 			<version>1.7.4</version>
